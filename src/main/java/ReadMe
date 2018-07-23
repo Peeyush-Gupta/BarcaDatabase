@@ -21,4 +21,20 @@ The body of the method bears the logic responsible for creating the instance.
  @Autowired is Spring's own (legacy) annotation.
  @Inject is part of a new Java technology called CDI that defines a standard for dependency injection similar to Spring.
  
+   @Autowired Vs @Inject
+ @Autowired is Spring's own (legacy) annotation.
+ @Inject is part of a new Java technology called CDI that defines a standard for dependency injection similar to Spring.
+ 
+   @Autowired Vs @Inject
+ @Autowired is Spring's own (legacy) annotation.
+ @Inject is part of a new Java technology called CDI that defines a standard for dependency injection similar to Spring.
+ 
+   @Autowired Vs @Inject
+ @Autowired is Spring's own (legacy) annotation.
+ @Inject is part of a new Java technology called CDI that defines a standard for dependency injection similar to Spring.
+ 
+   @Autowired Vs @Inject
+ @Autowired is Spring's own (legacy) annotation.
+ @Inject is part of a new Java technology called CDI that defines a standard for dependency injection similar to Spring.
+ 
   
